@@ -1,0 +1,3 @@
+final_model, test_acc = 85.75342, test_acc_combined = 85.75342, test_loss = 0.000000
+final_model, test_acc = 85.75342, test_acc_combined = 85.75342, test_loss = 0.000000
+final_model, test_acc = 85.75342, test_acc_combined = 85.75342, test_loss = 0.000000
